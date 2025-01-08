@@ -1,4 +1,4 @@
-# Lab 5 : Secure communication
+# Secure communication
 
 - **Author** : KATCHALA MELE Abdoulaye, SATARZAI Mirwis
 - **Group** : Cyber G2
